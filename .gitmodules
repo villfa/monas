@@ -1,0 +1,3 @@
+[submodule "monad-php"]
+	path = monadphp
+	url = https://github.com/ircmaxell/monad-php.git

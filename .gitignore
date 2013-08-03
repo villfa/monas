@@ -1,3 +1,4 @@
 vendor/
+monadphp/
 composer.lock
 composer.phar

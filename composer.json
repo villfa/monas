@@ -2,7 +2,7 @@
     "autoload": {
         "psr-0": {
             "Monad": "src",
-            "MonadPHP": "monadphp/lib"
+            "MonadPHP": "monad-php/lib"
         }
     }
 }

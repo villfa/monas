@@ -1,7 +1,15 @@
 {
+    "name": "villfa/monas",
+    "description": "",
+    "authors": [
+        {
+            "name": "Fabien Villepinte",
+            "email": "fabien.villepinte@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-0": {
-            "Monad": "src",
+            "Monas": "src",
             "MonadPHP": "monad-php/lib"
         }
     }
